@@ -1,6 +1,14 @@
 {
   "author": "Juanky777",
+  "description": "A project that does something awesome",
+  "keywords": [
+    "course",
+    "nodejs",
+    "freecodecamp"
+  ],
   "name": "fcc-learn-npm-package-json",
+  "license": "MIT",
+  "version": "1.0",
   "dependencies": {
     "express": "^4.14.0"
   },
